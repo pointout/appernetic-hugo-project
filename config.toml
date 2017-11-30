@@ -2,13 +2,13 @@
 baseurl = "http://www.example.com"
 
 # Site title
-title = "sitename"
+title = "pointout"
 
 # Copyright
-copyright = "(c) 2015 yourname."
+copyright = "(c) 2017 pointout."
 
 # Language
-languageCode = "en-EN"
+languageCode = "de-AT"
 
 # SES friendly url:s
 canonifyurls = true
@@ -36,16 +36,16 @@ disqusShortname = "your_disqus_shortname"
     topic = "topics"
 
 [author]
-    name = "yourname"
-    email = "yourname@example.com"
+    name = "Roman Walters"
+    email = "mail@pout.at"
 
 #
 # All parameters below here are optional and can be mixed and matched.
 #
 [params]
     # You can use markdown here.
-    brand = "foobar"
-    topline = "few words about your site"
+    brand = "pointout"
+    topline = "Testpage"
     footline = "code with <i class='fa fa-heart'></i>"
 
     # Text for the top menu link, which goes the root URL for the site.
